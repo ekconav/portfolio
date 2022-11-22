@@ -1,0 +1,25 @@
+body {
+
+}
+.header {
+    background-color: black;
+    padding: 15px;
+}
+.header1 {
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    color: gray;
+}
+.header1:hover, .header1:active {
+    text-decoration: underline;
+}
+.fa {
+    padding: 15px;
+    width: 50x;
+    padding-left: 1000px;
+    text-align: right;
+    text-decoration: none;
+  }
+.fa-facebook {
+    color: white;
+  }
